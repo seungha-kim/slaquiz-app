@@ -4,10 +4,17 @@
   "private": true,
   "dependencies": {
     "@storybook/cli": "^3.2.15",
+    "apollo-cache-inmemory": "^1.1.0",
+    "apollo-client": "^2.0.2",
+    "apollo-link-context": "^1.0.0",
+    "apollo-link-http": "^1.1.0",
+    "graphql": "^0.11.7",
+    "graphql-tag": "^2.5.0",
     "node-sass-chokidar": "0.0.3",
     "react": "^16.1.1",
     "react-dom": "^16.1.1",
     "react-redux": "^5.0.6",
+    "react-router-dom": "^4.2.2",
     "react-scripts": "1.0.17",
     "redux": "^3.7.2",
     "redux-thunk": "^2.2.0"
